@@ -5,10 +5,10 @@ It is a project from ITCS392 Multimedia Systems Lab class to create any casual g
 ## Title
 ![Title](/Screenshot/Title.png)
 
-##Gameplay
+## Gameplay
 ![Gameplay](/Screenshot/Gameplay.png)
 
-##Gameover
+## Gameover
 ![Gameover](/Screenshot/Gameover.png)
 
 
